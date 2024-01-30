@@ -1,0 +1,5 @@
+.about-pic {
+    border-radius: 1rem;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
